@@ -1,0 +1,9 @@
+Indicator,Orion_Idx,Bbg_Idx,Fund_Name,Opt_Type,Opt_Term_Yrs
+NASIDX,NASDAQ 100,NDX Index,NASDAQ-100 1 Yr Pt-to-Pt 100 Part w Cap,Call Spread,1
+INDEX,S&P 500,SPX Index,S&P 500 1 Yr Pt-to-Pt 100 Part w Cap,Call Spread,1
+INX150,S&P 500,SPX Index,S&P 500 1 Yr Pt-to-Pt 100 Part w Cap & Floor,Call Spread,1
+INXHIM,S&P 500,SPX Index,S&P 500 1 Yr Pt-to-Pt Multiplier w Cap,Call Spread,1
+INXLOM,S&P 500,SPX Index,S&P 500 1 Yr Pt-to-Pt Multiplier w Cap,Call Spread,1
+INXFEE,S&P 500,SPX Index,S&P 500 1 Yr Pt-to-Pt Uncapped w Fee,Call,1
+INXSPC,S&P 500,SPX Index,S&P 500 1 Yr Specified Rate,Digital,1
+MARPRT,S&P MARC5,SPMARC5P Index,S&P MARC 5% 1 Yr Pt-to-Pt Uncapped,Call,1

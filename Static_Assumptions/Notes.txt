@@ -1,0 +1,3 @@
+Note(s):  
+HdgFctr for NY (26) in Co_to_NBHdgFctr = 80% Coinsurance * 95% Hedge Factor
+Technically the 'Indicator' field is not needed in CoPlanInd_to_Prod.csv table

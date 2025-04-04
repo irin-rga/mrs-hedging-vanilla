@@ -1,0 +1,10 @@
+Orig_Name,New_Name
+ITS_PER_STR_DT,HedgeDt
+CK_CMP_CD,CompID
+TCH_POL_ID,PolicyNum
+PLN_DES_SER_CD,Plan
+CSV_AMT,Base_Liab_Ntnl
+TOT_CRE_ITS_AMT,Idx_Credit
+FND_VAL_PHA_NBR,PHA_Num
+VAL_CUR_ASOF_DT,AsOfDt
+FUZGREIN_IND,Status
